@@ -1,0 +1,15 @@
+.token.keyword {
+	color: #e99287;
+}
+
+.token.operator {
+	color: #4d5bce;
+}
+
+.token.constant {
+	color: #43d9ad;
+}
+
+.token.punctuation {
+	color: #607b96;
+}
